@@ -1,0 +1,6 @@
+{
+  "name": "منصة قلب العلم التعليمية",
+  "description": "المنصة التعليمية المتكاملة لتقديم الكورسات، الامتحانات الإلكترونية، والمسابقات الرسمية لدفعة 2027 تحت إشراف إدارة المنصة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
